@@ -4,4 +4,4 @@ My data potfolio for data analyst role
 I whan
 - sQl
 - R
-  
+link https://data-science-bootcamp1.teachable.com
